@@ -169,6 +169,7 @@ body {
   height: 36.67px;
   margin-bottom: 13.33px;
   background-color: #5b0f31;
+  background: radial-gradient(#8b0f31, #641f3e), #cccdc8;
   border-radius: 33.33px;
   border: 0.67px solid black;
 }
@@ -227,6 +228,7 @@ body {
 .boton_select {
   margin-top: 640px;
   background-color: #5a585d;
+  background: radial-gradient( #5a585d,#8b8485);
   width: 6.67px;
   height: 40px;
   margin: 20.67px;
@@ -250,7 +252,7 @@ body {
 .altavoz_agujero {
   width: 26.67px;
   height: 66.67px;
-  background-color: #867f76;
+ background: radial-gradient( #5a585d,#8b8485);
   margin: 4px;
   border: 0.67px solid gray;
   border-radius: 4px;
